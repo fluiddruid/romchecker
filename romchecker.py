@@ -9,7 +9,7 @@
 #
 # I wrote this to check for the nightly builds of the excellent PAC-ROM 
 # (http://http://pac-rom.com), but it will work for other ROM. which have 
-# date stamped nigtlies on a publicly accessible web server.
+# date stamped nightlies on a publicly accessible web server.
 # 
 # I schedule this to run every half hour using cron. Please don't poll other 
 # people's servers too frequently!
