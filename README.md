@@ -1,4 +1,4 @@
-ROMChecker
+romchecker
 ==========
 
 A simple python script to check for the existence of the new nightly build of a ROM and send a Pushover notification (http://pushover.net/) to an Android device if it finds one.
